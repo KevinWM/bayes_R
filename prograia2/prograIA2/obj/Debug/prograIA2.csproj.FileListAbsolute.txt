@@ -1,0 +1,126 @@
+d:\todo\documentos\visual studio 2013\Projects\prograIA2\prograIA2\bin\Debug\prograIA2.exe.config
+D:\Todo\Documentos\Visual Studio 2013\Projects\prograIA2\prograIA2\obj\Debug\prograIA2.csprojResolveAssemblyReference.cache
+D:\Todo\Documentos\Visual Studio 2013\Projects\prograIA2\prograIA2\obj\Debug\prograIA2.Form1.resources
+D:\Todo\Documentos\Visual Studio 2013\Projects\prograIA2\prograIA2\obj\Debug\prograIA2.Properties.Resources.resources
+D:\Todo\Documentos\Visual Studio 2013\Projects\prograIA2\prograIA2\obj\Debug\prograIA2.csproj.GenerateResource.Cache
+D:\Todo\Documentos\Visual Studio 2013\Projects\prograIA2\prograIA2\bin\Debug\prograIA2.exe
+D:\Todo\Documentos\Visual Studio 2013\Projects\prograIA2\prograIA2\bin\Debug\prograIA2.pdb
+D:\Todo\Documentos\Visual Studio 2013\Projects\prograIA2\prograIA2\bin\Debug\OpenPop.dll
+D:\Todo\Documentos\Visual Studio 2013\Projects\prograIA2\prograIA2\obj\Debug\prograIA2.exe
+D:\Todo\Documentos\Visual Studio 2013\Projects\prograIA2\prograIA2\obj\Debug\prograIA2.pdb
+d:\todo\documentos\visual studio 2013\Projects\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.dll
+d:\todo\documentos\visual studio 2013\Projects\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.dll
+d:\todo\documentos\visual studio 2013\Projects\prograIA2\prograIA2\bin\Debug\NTextCat.dll
+d:\todo\documentos\visual studio 2013\Projects\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.xml
+d:\todo\documentos\visual studio 2013\Projects\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.xml
+d:\todo\documentos\visual studio 2013\Projects\prograIA2\prograIA2\bin\Debug\NTextCat.xml
+d:\todo\documentos\visual studio 2013\Projects\prograIA2\prograIA2\bin\Debug\Npgsql.dll
+d:\todo\documentos\visual studio 2013\Projects\prograIA2\prograIA2\bin\Debug\Npgsql.xml
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\prograIA2.exe.config
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\obj\Debug\prograIA2.exe
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\obj\Debug\prograIA2.pdb
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\prograIA2.exe
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\prograIA2.pdb
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.dll
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.dll
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\Npgsql.dll
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\NTextCat.dll
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\OpenPop.dll
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.xml
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.xml
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\Npgsql.xml
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\bin\Debug\NTextCat.xml
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\obj\Debug\prograIA2.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\obj\Debug\prograIA2.Form1.resources
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\obj\Debug\prograIA2.Properties.Resources.resources
+C:\Users\Jonathan\Dropbox\TEC\Materia TEC 8 Semestre\Inteligencia Artificial\I° Proyecto\prograIA2\prograIA2\obj\Debug\prograIA2.csproj.GenerateResource.Cache
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\prograIA2.exe.config
+E:\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.exe
+E:\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.pdb
+E:\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.csprojResolveAssemblyReference.cache
+E:\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.Form1.resources
+E:\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.Properties.Resources.resources
+E:\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.csproj.GenerateResource.Cache
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\prograIA2.exe
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\prograIA2.pdb
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.dll
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.dll
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\Npgsql.dll
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\NTextCat.dll
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\OpenPop.dll
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.xml
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.xml
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\Npgsql.xml
+E:\prograIA2\prograIA2\prograIA2\bin\Debug\NTextCat.xml
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\prograIA2.exe.config
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.exe
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.pdb
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\prograIA2.exe
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\prograIA2.pdb
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\DynamicInterop.dll
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.dll
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.dll
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\Npgsql.dll
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\NTextCat.dll
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\OpenPop.dll
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\RDotNet.dll
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\DynamicInterop.xml
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.xml
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.xml
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\Npgsql.xml
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\NTextCat.xml
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\RDotNet.xml
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.Form1.resources
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\prograIA2.exe.config
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.exe
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.pdb
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\prograIA2.exe
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\prograIA2.pdb
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\DynamicInterop.dll
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.dll
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.dll
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\Npgsql.dll
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\NTextCat.dll
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\OpenPop.dll
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\RDotNet.dll
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\DynamicInterop.xml
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.Commons.xml
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.xml
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\Npgsql.xml
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\NTextCat.xml
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\RDotNet.xml
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.Form1.resources
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\proyectoIA\proyectoIA\prograIA2\prograIA2\prograIA2\obj\Debug\prograIA2.csproj.GenerateResource.Cache
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\prograIA2.exe.config
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\obj\Debug\prograIA2.exe
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\obj\Debug\prograIA2.pdb
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\prograIA2.exe
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\prograIA2.pdb
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\DynamicInterop.dll
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\IvanAkcheurov.Commons.dll
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.dll
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\Npgsql.dll
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\NTextCat.dll
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\OpenPop.dll
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\RDotNet.dll
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\RDotNet.NativeLibrary.dll
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\DynamicInterop.xml
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\IvanAkcheurov.Commons.xml
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\IvanAkcheurov.NClassify.xml
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\Npgsql.xml
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\NTextCat.xml
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\RDotNet.xml
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\bin\Debug\RDotNet.NativeLibrary.xml
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\obj\Debug\prograIA2.csprojResolveAssemblyReference.cache
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\obj\Debug\prograIA2.Form1.resources
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\obj\Debug\prograIA2.Properties.Resources.resources
+D:\Todo\Escritorio\HP\proyectoIA\prograia2\prograia2\prograIA2\obj\Debug\prograIA2.csproj.GenerateResource.Cache
